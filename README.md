@@ -1,3 +1,8 @@
+KANBAN BOARD INSTRUCTIONS
+When a card is picked up from the TODO and moved to doing, edit the note with the name of the person who is actively working on that card. 
+When complete with that card, move the card to the NEEDS REVIEW column and another member will review the card and edit it to say XY or Z person 
+reviewed it and moved it to the COMPLETE column.
+
 Project Description: Case Study 
 In the security research paper, the student will analyze how cloud-based Serverless computing impacts its security development in general. 
 The student reflects on security principles, researches the current adversarial environment, identifies system vulnerabilities subject to exploitation in the 
